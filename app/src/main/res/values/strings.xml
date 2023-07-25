@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">5-SiqleLighte_internalStorage_ShereDepreferance</string>
+    <string name="phone">phone</string>
+    <string name="save">save</string>
+    <string name="load">load</string>
+    <string name="SQLite_Databases">SQLite Databases</string>
+    <string name="Internal_Storage">Internal Storage</string>
+    <string name="Shared_Preferences">Shared Preferences</string>
+    <string name="message" >message</string>
+</resources>

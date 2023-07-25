@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextPhone" type="id" />
+    <item name="editTextMessage" type="id" />
+    <item name="SaveSql" type="id" />
+    <item name="LoadSql" type="id" />
+    <item name="textViewMessage" type="id" />
+    <item name="textViewPhone" type="id" />
+    <item name="SaveInternal" type="id" />
+    <item name="LoadInternal" type="id" />
+    <item name="SaveShare" type="id" />
+    <item name="loadShare" type="id" />
+    <item name="textViewSql" type="id" />
+    <item name="textViewInternal" type="id" />
+    <item name="textViewShare" type="id" />
+</resources>
